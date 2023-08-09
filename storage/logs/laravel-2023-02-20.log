@@ -1,0 +1,4 @@
+[2023-02-20 18:27:20] local.ERROR: Trait "Illuminate\Foundation\Auth\RegistersUsers" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Illuminate\\Foundation\\Auth\\RegistersUsers\" not found at C:\\xampp\\htdocs\\test_project\\project\\app\\Http\\Controllers\\Auth\\RegisterController.php:17)
+[stacktrace]
+#0 {main}
+"} 
